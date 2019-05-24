@@ -1,5 +1,5 @@
 # Validation-of-object-type-with-machinelearning
-Program was created by Daniel Persson and Petter Gullin
+Program was created by Daniel Persson and Petter Gullin.
 This program was created for our B-essay (B-uppsats), the B-essay is included in the repository.
 
 Thank you Albin Larsson [abbe98](https://github.com/Abbe98) on github for all the techincal help and guidance on this project
