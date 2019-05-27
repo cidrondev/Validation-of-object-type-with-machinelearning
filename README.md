@@ -19,7 +19,7 @@ These programs download, creates and validates picture from Swedish National Her
 This throught [API ksamsok](http://www.ksamsok.se/api/).
 
 ## Why was it created?
-These programs were created as the Swedish National Heritage Board saw a problem with the quailty of metadata.
+These programs were created as the Swedish National Heritage Board saw a problem with the quailty of the metadata.
 
 ## Purpose of the program
 To find wrongfully classifed metadata in their database.
