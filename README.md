@@ -2,7 +2,7 @@
 Program was created by Daniel Persson and Petter Gullin.
 This program was created for our B-essay (B-uppsats), the B-essay is included in the repository.
 
-Thank you Albin Larsson [abbe98](https://github.com/Abbe98) on github for all the techincal help and guidance on this project
+Thank you Albin Larsson [Abbe98](https://github.com/Abbe98) on github for all the techincal help and guidance on this project
 
 # Models and CSV files from our testing
 [Download link](https://drive.google.com/file/d/1BidRbOqKRJIzD13vE3YMdORzOQQJCgZu/view?usp=sharing)
